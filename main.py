@@ -6,5 +6,5 @@
 
 numbers = [1, 4, 6, 8, 7, 5]
 
-sth=min(numbers)
+sth=max(numbers)
 print(sth)
