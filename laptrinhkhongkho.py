@@ -20,3 +20,4 @@ bon=open("project.out",'w')
 bon.write(f'{y}')
 
 print("pretty {}".format(full_name))
+print('vi hom nay la mot mon qua present')
